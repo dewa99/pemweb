@@ -9,7 +9,7 @@
     <form class="" action="create.php" method="post">
       <input type="text" name="nama" value="">
       <input type="text" name="nim" value="">
-      <textarea name="alamat" id="" cols="30" rows="10"></textarea>
+      <textarea name="alamat" id=""></textarea>
       <input type="submit" name="submit" value="submit">
     </form>
 
